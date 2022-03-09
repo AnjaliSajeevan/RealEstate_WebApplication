@@ -83,8 +83,4 @@ npm install
 ```
 npm start
 ```
-## Team Members
-- Aditi Jain (001038953)
-- Priyanka Ahuja (001573684)
-- Sushmita Maity (001092534)
-- Anjali Sajeevan (001563277)
+
